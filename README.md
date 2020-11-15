@@ -89,11 +89,11 @@ a. This form is visible to the owner and employee.
 
 ## Windows Software:
 
-Download the Installer on your Windows PC and open the file to install the software on your machine. First page will be the sign in page and you can either sign in or click sign up button to create a new account. 
+Download the Installer on your Windows PC and open the file to install the software on your machine.
 
 Downloads: 
 
-https://github.com/aaron123432/ProjectInstruction/blob/main/Setup_for_demo2.msi
+https://github.com/DTaraska11/ProjectInstruction/blob/main/Setup.msi
 
 
 # Testing Instruction
